@@ -1,0 +1,34 @@
+Version 2.40. Changelog:
+
+> Updated source code to v9.3.3.1.
+> Added Download &amp; Upload speed booster (experimental, beta only).
+> Added Monet Light &amp; Monet Dark theme (android 12+).
+> Added button to clear database in Storage Usage.
+> Added option to always show media spoilers.
+> Added option to select all topics.
+> Added option to show all groups with topics as messages
+> Added option to save option 'View as messages' for each group separately
+> Added option allow to pin/unpin more than 3 topics
+> Added option to hide premium stickers
+> Added option آ´Disabledآ´ to chat list swipe left gesture.
+> Added option to force small reactions layout in chat
+> Added buttons for backward and forward steps to audio player
+> Telegram's graphical editor for Android has undergone significant changes.
+> Media Spoilers: Photos and videos can now be hidden under a spoiler in the same way as text.
+> The Data and Memory section has improved cache management by category.
+> There is now an option to hide group members.
+> It is now possible to set a profile picture or video that can be seen by those who are not allowed to see the main avatar.
+> Global auto-delete timer for all your new chats
+> Groups with 100+ members can organize discussions into topics
+> 2-column design in topic lists, General topic for old chat history, and more topic improvements
+> Optional aggressive anti-spam filtering for large groups
+> Temporary QR codes for users who hide their phone number from everyone
+> 'Storage Usage' shows how much space is used by each chat
+> Category Topics added to Plus settings.
+> Large groups with 200+ members can sort their discussions into topics.
+> Premium users can convert both video and voice messages to text.
+> Changing text size now affects all text in chats, like reply headers and link previews.
+> Tapping the phone number in a user's profile opens an updated menu with Voice and Video call options.
+> New animation when swiping left on messages to reply.
+> New placeholders when loading messages in groups and channels.
+> Bug fixes.
