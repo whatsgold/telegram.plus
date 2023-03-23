@@ -1,4 +1,4 @@
-Version 2.55. Changelog:
+Version 2.50 Changelog:
 
 > Updated source code to v9.4.9.0.
 > Added option to log in using QR Code, scanning code with another device (Settings -> Devices -> Link Device).
