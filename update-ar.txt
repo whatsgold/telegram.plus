@@ -1,29 +1,18 @@
-Version 2.50 Changelog:
+Version 2.65. Changelog:
 
-> Updated source code to v9.4.9.0.
-> Added option to log in using QR Code, scanning code with another device (Settings -> Devices -> Link Device).
-> Added option to hide transcription button in voice messages.
-> Added option to show user status circle on chat screen only if online.
-> Added option to show user status circle on main screen only if online.
-> New feature: Open Settings search using link
-> New feature: Open Telegram Gold Settings search using link
-> Emoji and stickers as profile picture.
-> Translate entire chats.
-> Detailed data usage.
-> Mood based categories for emoji, gif, stickers.
-> New group permissions.
-> Extended Auto-save options.
-> Reactions on selected media.
-> New icons for data and storage usage.
-> Proxy Rotation.
-> Set as status on holding emoji.
-> Pause music while recording.
-> Design change for emoji, gif, sticker column.
-> New icons in privacy and settings.
-> Added option to improve voice recording quality.
-> Added option to parse links with format [text](url).
-> Added option to open Archive on pull down.
-> Added option to disable hide topic on swipe.
-> Added option to show/hide id in profile.
-> Added option to add date time to forwarded messages.
-> Bug fixes.
+> Ghost mode, which is not to show that you are online.
+> Shows you deleted messages from chats, channels and groups.
+> Transfer members from one group to another group.
+> Adds bulk members from any group to your group.
+> It shows you the modified messages with the modification time and the difference between the messages before and after the modification.
+> Auto reply to people when you are not available.
+> Turn off the internet for the app.
+> change the font.
+> Remove ads.
+> Unlock (some) premium features, including the full chat translation feature.
+> Add fonts.
+> Delete and rearrange the side menu.
+> Complete correction of the Arabic language.
+> Unlock Restrictions for Restricted Channels and Groups Now you can Copy, Point, Take Screenshot and Record Screen Video in Restricted Channels and Groups.
+> Disable running proxy automatically (you can enable it manually)
+> Change chat sounds within chat.
