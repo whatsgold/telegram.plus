@@ -1,6 +1,8 @@
-Version 3.0.0. Changelog:
+Version 3.1.0. Changelog:
 
 > Source code updated to v10.2.2.0.
+> Replies 2.0, Adjustable Link Previews, Name Colors and More
+> Added option to disable users theme modifications
 > Choose a custom color to display the name and links.
 > Possibility of quoting part of the messages in the answers.
 > Ability to format texts as quotations.
